@@ -1,0 +1,3 @@
+https://huggingface.co/spaces/MinahilFawad27/osteoprosis_prediction
+
+Hugging face link
